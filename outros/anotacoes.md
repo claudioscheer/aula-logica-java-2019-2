@@ -12,4 +12,4 @@
 
 Os seres humanos pensam e expressam seus pensamentos através da fala e da escrita. Independente do idioma, a lógica de pensamento será a mesma. O que irá mudar será o idioma.
 
-A mesma lógica pode ser usada para a programação. É preciso expressar estas ideias de uma forma coerente com a convenção que iremos utilizar. No caso da disciplina, Java. Não importa a linguagem de programação. O raciocínio lógico será o mesmo.
+A mesma lógica pode ser usada para a programação. É preciso expressar estas ideias de uma forma coerente com a convenção que iremos utilizar. No caso da disciplina, Java. Não importa a linguagem de programação, o raciocínio lógico será o mesmo.
