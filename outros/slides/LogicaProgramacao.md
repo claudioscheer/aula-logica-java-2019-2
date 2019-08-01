@@ -38,3 +38,9 @@ Escrever um algoritmo para fazer um bolo.
 ---
 
 ## O que é Lógica de Programação?
+
+---
+
+## Exercício
+
+Escrever um algoritmo para ler um livro.
