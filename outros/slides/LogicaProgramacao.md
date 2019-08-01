@@ -45,6 +45,7 @@ Escrever um algoritmo para fazer um bolo.
 
 - Escrever um algoritmo para ler um livro pedido:
 
-###### 1) explicitar como saber a página que está lendo.
-###### 2) explicitar como saber o capítulo que está lendo.
-###### 3) só se pode ler um capítulo por dia.
+###### 1) o livro deverá ser informado pelo usuário.
+###### 2) explicitar como saber a página que está lendo.
+###### 3) explicitar como saber o capítulo que está lendo.
+###### 4) só se pode ler um capítulo por dia.
