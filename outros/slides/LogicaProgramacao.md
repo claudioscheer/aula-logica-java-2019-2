@@ -43,4 +43,8 @@ Escrever um algoritmo para fazer um bolo.
 
 ## Exercício
 
-Escrever um algoritmo para ler um livro.
+- Escrever um algoritmo para ler um livro pedido:
+
+###### 1) explicitar como saber a página que está lendo.
+###### 2) explicitar como saber o capítulo que está lendo.
+###### 3) só se pode ler um capítulo por dia.
