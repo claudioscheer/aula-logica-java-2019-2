@@ -33,8 +33,6 @@ Escrever um algoritmo para fazer um bolo.
 
 - Escrever um algoritmo para trocar uma lâmpada com uma escada.
 
-- Escrever um algoritmo para somar dois números.
-
 ---
 
 ## O que é Lógica de Programação?
