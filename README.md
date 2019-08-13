@@ -3,7 +3,8 @@ Este repositório é dedicado às aulas de Algoritmos e Lógica de Programação
 
 #### Estrutura do repositório
 - [exemplos](exemplos): código fonte dos exemplos contruídos em sala de aula.
-- [outros](outros): anotações gerais e slides sobre a disciplina.
+- [slides](outros/slides): slides sobre a disciplina.
+- [outros](outros): anotações gerais sobre a disciplina.
 
 ## Livro para referências
 - Título: Lógica de programação: a contrução de algoritmos e estruturas de dados
