@@ -12,13 +12,12 @@ public class TiposPrimitivos {
 
     public static void main(String[] args) {
         // tipos primitivos
-        int numeroInteiro = 10;
-        long numeroLongo = 123456;
+        int numeroInteiro = 1234567879;
+        long numeroLongo = 9223372036854775807l;
         char caractere = '-';
         boolean verdadeiroOuFalso = true;
-        byte b = 33; // -128 até 127 - 1 byte
-        float numeroComVirgula = (float) 10.5;
-        double numeroLongoComVirgula = (double) 12.5557;
+        float numeroComVirgula = 10.5f;
+        double numeroLongoComVirgula = 12.5557d;
 
         // tipo não primitivo
         String texto = "Este é um texto.";

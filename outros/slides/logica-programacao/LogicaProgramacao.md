@@ -29,7 +29,7 @@ Escrever um algoritmo para fazer um bolo.
 
 ---
 
-## Exercício
+## Exercício 1
 
 - Escrever um algoritmo para trocar uma lâmpada com uma escada.
 
@@ -39,7 +39,7 @@ Escrever um algoritmo para fazer um bolo.
 
 ---
 
-## Exercício
+## Exercício 2
 
 - Escrever um algoritmo para ler um livro pedido:
 

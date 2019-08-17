@@ -75,12 +75,16 @@ Sem esta função o programa não irá funcionar.
 
 ---
 
-# Atividade
+# Exercício 1
 
 ---
 
 - Criar um projeto chamado `OlaMundo1`.
 - Criar uma classe chamada `PrincipalOlaMundo1`.
+
+---
+
+# Exercício 2
 
 ---
 
