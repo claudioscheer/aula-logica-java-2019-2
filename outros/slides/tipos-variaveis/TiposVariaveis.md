@@ -64,8 +64,9 @@ boolean maiorDeIdade = false;
 
 ## Exercícios
 
-- Declarar uma variável com o valor `3` e mostar o valor da variável.
-- Declarar uma variável com o valor `"Olá, mundo!"` e mostar o valor da variável.
-- Declarar uma variável com o valor `false` e mostar o valor da variável.
+- Declarar a variável `idade` com o valor `20`.
+- Declarar a variável `nome` com o valor `"João Paulo"`.
+- Declarar a variável `menorDeIdade` com o valor `false`.
+- Mostrar o valor das variáveis.
 
 ###### Tudo isso pode ser feito na mesma função _main_.
