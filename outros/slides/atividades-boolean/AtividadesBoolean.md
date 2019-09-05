@@ -62,27 +62,4 @@ O jogo empatou? <b>###</b>.
 Ao criar uma conta de e-mail no Google é obrigatório informar um usuário que tenha mais de 5 caracteres (letras). João informou o usuário `joao`. Ele poderá criar a conta?
 <br />
 A resposta deverá seguir este padrão:
-Jão poderá criar a conta? <b>###</b>.
-
----
-
-# <!-- fit --> Desafio
-
----
-
-Resultados de uma partida de volei:
-|Set|Time A|Time B|
-|---|---|---|
-|1|25|19|
-|2|24|26|
-|3|30|28|
-|4|25|22|
-
----
-
-As respostas deverão seguir este padrão:
-O time A venceu o primeiro set? <b>###</b>.
-O time A venceu o segundo set? <b>###</b>.
-O time A venceu o terceiro set? <b>###</b>.
-O time A venceu o quarto set? <b>###</b>.
-O time A venceu o jogo? <b>###</b>.
+João poderá criar a conta? <b>###</b>.
