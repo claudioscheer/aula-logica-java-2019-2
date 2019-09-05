@@ -59,7 +59,8 @@ O jogo empatou? <b>###</b>.
 
 ---
 
-Ao criar uma conta de e-mail no Google é obrigatório informar um usuário que tenha mais de 5 caracteres (letras). João informou o usuário `joao`. Ele poderá criar a conta?
+Ao criar uma conta de e-mail no Google é obrigatório informar um usuário que tenha mais de 5 caracteres (letras). João informou o usuário `joao`. Ele poderá criar a conta? E se João informar como usuário `joooao`?
 <br />
 A resposta deverá seguir este padrão:
-João poderá criar a conta? <b>###</b>.
+`joao` poderá criar a conta? <b>###</b>.
+`joooao` poderá criar a conta? <b>###</b>.
