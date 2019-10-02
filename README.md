@@ -27,3 +27,15 @@ Os links e livros abaixo deverão ser usados para referências.
 - Edição: 2
 - Autores: Sérgio Furgeri
 - ISBN: 978-85-365-0278-6
+
+## Citações
+
+Abaixo estão as citações que deverão ser utilizadas no capítulo II.
+
+### Algoritmo
+> 
+
+### Lógica
+> Significa o uso correto das leis do pensamento, da 'ordem da razão' e de processos de raciocínio e simbolização formais na programação de computadores, objetivando a racionalidade e o desenvolvimento de técnicas que cooperem para a produção de soluções logicamente válidas e coerentes, que resolvam com qualidade os problemas que se deseja programar.
+>
+> -- <cite>página 2, [deste](#referencia-para-algoritmo-e-logica) livro</cite>
